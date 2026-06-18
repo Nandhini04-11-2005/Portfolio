@@ -111,7 +111,6 @@ nav {
 <body>
 <header>
     <h1>Nandhini R</h1>
-    <a href="#projects" class="btn">View Projects</a>
 </header>
 <nav>
     <a href="#about">About</a>
